@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 atp_prior_wins.csv
+df_atp.csv
