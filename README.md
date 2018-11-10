@@ -7,3 +7,6 @@ A short description of each variable can be found here : http://www.tennis-data.
 
 ## The Challenge
 Please check the prototyping notebook for all the explanations and details.
+
+## TODOs
+Please check the prototyping notebook for all the explorations and improvements to be done.
